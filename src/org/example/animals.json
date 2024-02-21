@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "name": "Lion",
+    "type": "Mammal",
+    "habitat": "Grasslands",
+    "legs": 4
+  },
+  {
+    "id": 2,
+    "name": "Elephant",
+    "type": "Mammal",
+    "habitat": "Forest",
+    "legs": 4
+  },
+  {
+    "id": 3,
+    "name": "Tiger",
+    "type": "Mammal",
+    "habitat": "Jungle",
+    "legs": 4
+  },
+  {
+    "id": 4,
+    "name": "Penguin",
+    "type": "Bird",
+    "habitat": "Antarctica",
+    "legs": 2
+  },
+  {
+    "id": 5,
+    "name": "Dolphin",
+    "type": "Mammal",
+    "habitat": "Ocean",
+    "legs": 0
+  },
+  {
+    "id": 6,
+    "name": "Kangaroo",
+    "type": "Mammal",
+    "habitat": "Australia",
+    "legs": 2
+  },
+  {
+    "id": 7,
+    "name": "Giraffe",
+    "type": "Mammal",
+    "habitat": "Savanna",
+    "legs": 4
+  },
+  {
+    "id": 8,
+    "name": "Crocodile",
+    "type": "Reptile",
+    "habitat": "Swamp",
+    "legs": 4
+  },
+  {
+    "id": 9,
+    "name": "Zebra",
+    "type": "Mammal",
+    "habitat": "Grasslands",
+    "legs": 4
+  },
+  {
+    "id": 10,
+    "name": "Ostrich",
+    "type": "Bird",
+    "habitat": "Desert",
+    "legs": 2
+  },
+  {
+    "id": 11,
+    "name": "Koala",
+    "type": "Mammal",
+    "habitat": "Eucalyptus Forest",
+    "legs": 4
+  },
+  {
+    "id": 12,
+    "name": "Cheetah",
+    "type": "Mammal",
+    "habitat": "Savanna",
+    "legs": 4
+  },
+  {
+    "id": 13,
+    "name": "Eagle",
+    "type": "Bird",
+    "habitat": "Mountain",
+    "legs": 2
+  },
+  {
+    "id": 14,
+    "name": "Hippopotamus",
+    "type": "Mammal",
+    "habitat": "River",
+    "legs": 4
+  },
+  {
+    "id": 15,
+    "name": "Panda",
+    "type": "Mammal",
+    "habitat": "Forest",
+    "legs": 4
+  },
+  {
+    "id": 16,
+    "name": "Snake",
+    "type": "Reptile",
+    "habitat": "Grasslands",
+    "legs": 0
+  },
+  {
+    "id": 17,
+    "name": "Gorilla",
+    "type": "Mammal",
+    "habitat": "Jungle",
+    "legs": 2
+  },
+  {
+    "id": 18,
+    "name": "Polar Bear",
+    "type": "Mammal",
+    "habitat": "Arctic",
+    "legs": 4
+  },
+  {
+    "id": 19,
+    "name": "Hawk",
+    "type": "Bird",
+    "habitat": "Sky",
+    "legs": 2
+  },
+  {
+    "id": 20,
+    "name": "Koel",
+    "type": "Bird",
+    "habitat": "Forest",
+    "legs": 2
+  },
+  {
+    "id": 21,
+    "name": "Raccoon",
+    "type": "Mammal",
+    "habitat": "Forest",
+    "legs": 4
+  },
+  {
+    "id": 22,
+    "name": "Whale",
+    "type": "Mammal",
+    "habitat": "Ocean",
+    "legs": 0
+  },
+  {
+    "id": 23,
+    "name": "Chimpanzee",
+    "type": "Mammal",
+    "habitat": "Jungle",
+    "legs": 2
+  },
+  {
+    "id": 24,
+    "name": "Seagull",
+    "type": "Bird",
+    "habitat": "Coast",
+    "legs": 2
+  },
+  {
+    "id": 25,
+    "name": "Frog",
+    "type": "Amphibian",
+    "habitat": "Pond",
+    "legs": 4
+  },
+  {
+    "id": 26,
+    "name": "Armadillo",
+    "type": "Mammal",
+    "habitat": "Desert",
+    "legs": 4
+  },
+  {
+    "id": 27,
+    "name": "Leopard",
+    "type": "Mammal",
+    "habitat": "Savanna",
+    "legs": 4
+  },
+  {
+    "id": 28,
+    "name": "Shark",
+    "type": "Fish",
+    "habitat": "Ocean",
+    "legs": 0
+  },
+  {
+    "id": 29,
+    "name": "Parrot",
+    "type": "Bird",
+    "habitat": "Tropical",
+    "legs": 2
+  },
+  {
+    "id": 30,
+    "name": "Gila Monster",
+    "type": "Reptile",
+    "habitat": "Desert",
+    "legs": 4
+  },
+  {
+    "id": 31,
+    "name": "Kangaroo Rat",
+    "type": "Mammal",
+    "habitat": "Desert",
+    "legs": 4
+  },
+  {
+    "id": 32,
+    "name": "Bald Eagle",
+    "type": "Bird",
+    "habitat": "Mountain",
+    "legs": 2
+  },
+  {
+    "id": 33,
+    "name": "Lynx",
+    "type": "Mammal",
+    "habitat": "Forest",
+    "legs": 4
+  },
+  {
+    "id": 34,
+    "name": "Goldfish",
+    "type": "Fish",
+    "habitat": "Aquarium",
+    "legs": 0
+  },
+  {
+    "id": 35,
+    "name": "Beaver",
+    "type": "Mammal",
+    "habitat": "River",
+    "legs": 4
+  },
+  {
+    "id": 36,
+    "name": "Tarantula",
+    "type": "Arachnid",
+    "habitat": "Forest",
+    "legs": 8
+  },
+  {
+    "id": 37,
+    "name": "Coyote",
+    "type": "Mammal",
+    "habitat": "Desert",
+    "legs": 4
+  },
+  {
+    "id": 38,
+    "name": "Albatross",
+    "type": "Bird",
+    "habitat": "Ocean",
+    "legs": 2
+  },
+  {
+    "id": 39,
+    "name": "Firefly",
+    "type": "Insect",
+    "habitat": "Grasslands",
+    "legs": 6
+  },
+  {
+    "id": 40,
+    "name": "Gazelle",
+    "type": "Mammal",
+    "habitat": "Savanna",
+    "legs": 4
+  },
+  {
+    "id": 41,
+    "name": "Komodo Dragon",
+    "type": "Reptile",
+    "habitat": "Island",
+    "legs": 4
+  },
+  {
+    "id": 42,
+    "name": "Hummingbird",
+    "type": "Bird",
+    "habitat": "Forest",
+    "legs": 2
+  },
+  {
+    "id": 43,
+    "name": "Cheetah",
+    "type": "Mammal",
+    "habitat": "Savanna",
+    "legs": 4
+  },
+  {
+    "id": 44,
+    "name": "Koala",
+    "type": "Mammal",
+    "habitat": "Eucalyptus Forest",
+    "legs": 4
+  },
+  {
+    "id": 45,
+    "name": "Jellyfish",
+    "type": "Invertebrate",
+    "habitat": "Ocean",
+    "legs": 0
+  },
+  {
+    "id": 46,
+    "name": "Grizzly Bear",
+    "type": "Mammal",
+    "habitat": "Forest",
+    "legs": 4
+  },
+  {
+    "id": 47,
+    "name": "Eagle Owl",
+    "type": "Bird",
+    "habitat": "Forest",
+    "legs": 2
+  },
+  {
+    "id": 48,
+    "name": "Pangolin",
+    "type": "Mammal",
+    "habitat": "Forest",
+    "legs": 4
+  },
+  {
+    "id": 49,
+    "name": "Sloth",
+    "type": "Mammal",
+    "habitat": "Rainforest",
+    "legs": 4
+  },
+  {
+    "id": 50,
+    "name": "Toucan",
+    "type": "Bird",
+    "habitat": "Rainforest",
+    "legs": 2
+  }
+]
