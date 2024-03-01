@@ -3,7 +3,8 @@ package org.example;
 public class Greeter {
 
     public String getGreetingInSelectedLanguage(Greetings language) {
-        return language.getGreeting();
+        String greeting = language.getGreeting();
+        return greeting;
     }
 
     enum Greetings {
